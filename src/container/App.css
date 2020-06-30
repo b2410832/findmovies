@@ -1,0 +1,19 @@
+.fragment{
+	background-color: rgba(9, 50, 89, 1);
+	background-image: url(cover.jpg);
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: center;
+
+}
+
+
+
+
+.cards {
+	display: flex;
+	flex-wrap: wrap;
+}
+
+
+
